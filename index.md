@@ -2,8 +2,6 @@
 layout: page
 ---
 
-## Call for Demo
-
 We invite demo contributions to the IEEE International Conference on Data Mining (ICDM) 2025. The conference will take
 place in Washington DC, USA, from November 12th to 15th, 2025.
 
