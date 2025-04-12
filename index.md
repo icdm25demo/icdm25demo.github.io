@@ -52,15 +52,15 @@ involving human participants is required.
 
 ## Publication and Presentation Policies
 
-***Publication***: Each accepted demo will be included in the ICDM 2025 proceedings. Additionally, each demo must
+***Publication***: Each accepted demo paper will be included in the ICDM 2025 *workshop proceedings*. Additionally, each demo must
 provide a brief pre-recorded video, which will be made available on IEEE Xplore, alongside the PDF.
 
-***Registration***: To be included in the proceedings, each accepted demo must be covered by a separate conference
+***Registration***: To be included in the *workshop proceedings*, each accepted demo must be covered by a separate conference
 registration. This registration must be a Full Conference registration, at the standard rate, completed by the
 camera-ready deadline. This requirement applies universally, regardless of attendance or presentation mode.
 
 ***Presentation***: All accepted demos must be presented in person at the conference. No-show demos may be withdrawn
-from the proceedings. Demos are also required to produce an on-site poster.
+from the *workshop proceedings*. Demos are also required to produce an on-site poster.
 
 ## Demo Co-Chairs
 
