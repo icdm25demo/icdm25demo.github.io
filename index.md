@@ -20,7 +20,7 @@ management, and practical applications of data science.
 ## Important Dates
 
 - Demo paper submission: **Friday, September 05, 2025**
-- Notification to authors: **Friday, September 26, 2025**
+- Notification to authors: **Monday, September 22, 2025**
 - Camera-ready of Accepted Papers: TBD
 
 All submission deadlines are end-of-day in the **Anywhere on Earth (AoE)** time zone.
