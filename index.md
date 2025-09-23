@@ -19,9 +19,10 @@ management, and practical applications of data science.
 
 ## Important Dates
 
-- Demo paper submission: **Friday, September 05, 2025**
-- Notification to authors: **Friday, September 19, 2025**
-- Camera-ready of Accepted Papers: TBD
+- Demo paper submission: **Friday, September 05, 2025 (AoE)**
+- Notification to authors: **Friday, September 19, 2025 (AoE)**
+- Early/Author Registration: **Tuesday, September 30, 2025 (AoE)**
+- Camera-ready demo paper submission and copyright due: **Sunday, October 05, 2025 (AoE)**
 
 All submission deadlines are end-of-day in the **Anywhere on Earth (AoE)** time zone.
 
@@ -52,12 +53,14 @@ involving human participants is required.
 
 ## Publication and Presentation Policies
 
-***Publication***: Each accepted demo paper will be included in the ICDM 2025 *workshop proceedings*. Additionally, each demo must
+***Publication***: **Accepted demo papers will be published in the ICDM 2025 *Workshop Proceedings* (not the main conference proceedings).** Additionally, each demo must
 provide a brief pre-recorded video, which will be made available on IEEE Xplore, alongside the PDF.
 
 ***Registration***: To be included in the *workshop proceedings*, each accepted demo must be covered by a separate conference
-registration. This registration must be a Full Conference registration, at the standard rate, completed by the
-camera-ready deadline. This requirement applies universally, regardless of attendance or presentation mode.
+registration. **At least one author of each accepted demo paper must register at the AUTHOR rate (full Member/Non-Member). Student registration does not satisfy this requirement, even if the author is a student.** Registration must be completed by the camera-ready deadline.
+
+***Author Instructions***: Author instructions for workshop proceedings are now live here:  
+[https://www3.cs.stonybrook.edu/~icdm2025/authorinstruction-workshops.html](https://www3.cs.stonybrook.edu/~icdm2025/authorinstruction-workshops.html)
 
 ***Presentation***: All accepted demos must be presented in person at the conference. No-show demos may be withdrawn
 from the *workshop proceedings*. Demos are also required to produce an on-site poster.
