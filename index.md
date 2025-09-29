@@ -65,7 +65,7 @@ registration. **At least one author of each accepted demo paper must register at
 ***Presentation***: All accepted demos must be presented in person at the conference. No-show demos may be withdrawn
 from the *workshop proceedings*. Demos are also required to produce an on-site poster.
 
-***Best Demo Paper Award***: A *Best Demo Paper Award* will be presented. The winners will be announced at the **Closing Ceremony on November 15, 2025**.
+<span style="color: red;">***Best Demo Paper Award***: A *Best Demo Paper Award* will be presented. The winners will be announced at the **Closing Ceremony on November 15, 2025**.</span>
 
 ## Demo Co-Chairs
 
