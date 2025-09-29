@@ -23,6 +23,7 @@ management, and practical applications of data science.
 - Notification to authors: **Friday, September 19, 2025 (AoE)**
 - Early/Author Registration: **Tuesday, September 30, 2025 (AoE)**
 - Camera-ready demo paper submission and copyright due: **Sunday, October 05, 2025 (AoE)**
+- <span style="color: red;">Demo Presentation: **Saturday, November 15, 2025; Location:Congressional**</span>
 
 All submission deadlines are end-of-day in the **Anywhere on Earth (AoE)** time zone.
 
